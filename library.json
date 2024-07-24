@@ -1,0 +1,19 @@
+{
+    "name": "helloESP32",
+    "version": "1.0.0",
+    "description": "hello from ESP32 via Serial",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/ja23mx/HELLOESP32.git"
+    },
+    "authors": [
+        {
+            "name": "ja23mx",
+            "emai": "*",
+            "maintainer": true
+        }
+    ],
+    "license":"MIT",
+    "framework":"arduino",
+    "platforms":"ESP32"
+}
