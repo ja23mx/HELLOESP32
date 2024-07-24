@@ -1,6 +1,6 @@
 {
     "name": "helloESP32",
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "hello from ESP32 via Serial",
     "repository": {
         "type": "git",
